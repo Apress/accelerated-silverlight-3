@@ -1,0 +1,28 @@
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\chapter7.Web.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\chapter7.Web.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\System.Web.Silverlight.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\obj\Debug\chapter7.Web.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter7\chapter7.Web\obj\Debug\chapter7.Web.pdb
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\chapter7.Web.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\chapter7.Web.pdb
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\System.Web.Silverlight.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\de\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\es\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\fr\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\it\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\ja\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\ko\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\obj\Debug\ResolveAssemblyReference.cache
+G:\Download SL3\Projects\chapter7\chapter7.Web\obj\Debug\chapter7.Web.dll
+G:\Download SL3\Projects\chapter7\chapter7.Web\obj\Debug\chapter7.Web.pdb

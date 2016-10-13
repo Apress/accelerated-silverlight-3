@@ -1,0 +1,14 @@
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\chapter3.Web.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\chapter3.Web.pdb
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\System.Web.Silverlight.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\obj\Debug\chapter3.Web.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter3\chapter3.Web\obj\Debug\chapter3.Web.pdb

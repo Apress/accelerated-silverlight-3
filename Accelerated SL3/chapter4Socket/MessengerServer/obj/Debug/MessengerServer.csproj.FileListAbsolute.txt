@@ -1,0 +1,5 @@
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\MessengerServer\bin\Debug\MessengerServer.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\MessengerServer\bin\Debug\MessengerServer.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\MessengerServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\MessengerServer\obj\Debug\MessengerServer.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\MessengerServer\obj\Debug\MessengerServer.pdb

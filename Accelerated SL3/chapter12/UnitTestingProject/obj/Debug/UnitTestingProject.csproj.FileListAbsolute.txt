@@ -1,0 +1,50 @@
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\AppManifest.xaml
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\UnitTestingProject.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\UnitTestingProject.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\UnitTestingProject.xap
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\TestPage.html
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\chapter12.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\Microsoft.Silverlight.Testing.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\System.Xml.Linq.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\chapter12.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\System.Xml.Linq.xml
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\obj\Debug\App.g.cs
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\obj\Debug\UnitTestingProject.g.resources
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\obj\Debug\UnitTestingProject.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\obj\Debug\UnitTestingProject.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter12\UnitTestingProject\obj\Debug\XapCacheFile.xml
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\AppManifest.xaml
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\UnitTestingProject.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\UnitTestingProject.pdb
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\UnitTestingProject.xap
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\TestPage.html
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\chapter12.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\Microsoft.Silverlight.Testing.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\System.Xml.Linq.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\chapter12.pdb
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\System.Xml.Linq.xml
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\de\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\es\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\fr\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\it\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\ja\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\ko\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\obj\Debug\ResolveAssemblyReference.cache
+G:\Download SL3\Projects\chapter12\UnitTestingProject\obj\Debug\App.g.cs
+G:\Download SL3\Projects\chapter12\UnitTestingProject\obj\Debug\UnitTestingProject.g.resources
+G:\Download SL3\Projects\chapter12\UnitTestingProject\obj\Debug\UnitTestingProject.dll
+G:\Download SL3\Projects\chapter12\UnitTestingProject\obj\Debug\UnitTestingProject.pdb
+G:\Download SL3\Projects\chapter12\UnitTestingProject\obj\Debug\XapCacheFile.xml

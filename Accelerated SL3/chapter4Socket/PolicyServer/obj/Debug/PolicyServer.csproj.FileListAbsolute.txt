@@ -1,0 +1,12 @@
+C:\Users\jay\Documents\Visual Studio 2008\Projects\PolicyServer\PolicyServer\bin\Debug\PolicyServer.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\PolicyServer\PolicyServer\bin\Debug\PolicyServer.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\PolicyServer\PolicyServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\PolicyServer\PolicyServer\obj\Debug\PolicyServer.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\PolicyServer\PolicyServer\obj\Debug\PolicyServer.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\PolicyServer\PolicyServer\bin\Debug\PolicyServer.exe.config
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\PolicyServer\bin\Debug\PolicyServer.exe.config
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\PolicyServer\bin\Debug\PolicyServer.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\PolicyServer\bin\Debug\PolicyServer.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\PolicyServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\PolicyServer\obj\Debug\PolicyServer.exe
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\PolicyServer\obj\Debug\PolicyServer.pdb

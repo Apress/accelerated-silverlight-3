@@ -1,0 +1,12 @@
+C:\book\examples\Chapter1\Chapter1\Bin\Debug\AppManifest.xaml
+C:\book\examples\Chapter1\Chapter1\Bin\Debug\Chapter1.dll
+C:\book\examples\Chapter1\Chapter1\Bin\Debug\Chapter1.pdb
+C:\book\examples\Chapter1\Chapter1\Bin\Debug\Chapter1.xap
+C:\book\examples\Chapter1\Chapter1\Bin\Debug\TestPage.html
+C:\book\examples\Chapter1\Chapter1\obj\Debug\ResolveAssemblyReference.cache
+C:\book\examples\Chapter1\Chapter1\obj\Debug\App.g.cs
+C:\book\examples\Chapter1\Chapter1\obj\Debug\MainPage.g.cs
+C:\book\examples\Chapter1\Chapter1\obj\Debug\Chapter1.g.resources
+C:\book\examples\Chapter1\Chapter1\obj\Debug\Chapter1.dll
+C:\book\examples\Chapter1\Chapter1\obj\Debug\Chapter1.pdb
+C:\book\examples\Chapter1\Chapter1\obj\Debug\XapCacheFile.xml

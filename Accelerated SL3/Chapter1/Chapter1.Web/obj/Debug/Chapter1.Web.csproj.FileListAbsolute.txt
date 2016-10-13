@@ -1,0 +1,14 @@
+C:\book\examples\Chapter1\Chapter1.Web\bin\Chapter1.Web.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\Chapter1.Web.pdb
+C:\book\examples\Chapter1\Chapter1.Web\bin\System.Web.Silverlight.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\book\examples\Chapter1\Chapter1.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\book\examples\Chapter1\Chapter1.Web\obj\Debug\Chapter1.Web.dll
+C:\book\examples\Chapter1\Chapter1.Web\obj\Debug\Chapter1.Web.pdb

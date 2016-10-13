@@ -1,0 +1,14 @@
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\chapter4Socket.Web.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\chapter4Socket.Web.pdb
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\System.Web.Silverlight.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\obj\Debug\chapter4Socket.Web.dll
+C:\Users\jay\Documents\Visual Studio 2008\Projects\chapter4Socket\chapter4Socket.Web\obj\Debug\chapter4Socket.Web.pdb

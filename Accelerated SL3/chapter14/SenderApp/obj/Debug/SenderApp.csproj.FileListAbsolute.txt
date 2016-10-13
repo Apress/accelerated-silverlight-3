@@ -1,0 +1,12 @@
+G:\File SERVER\chapter14\SenderApp\Bin\Debug\AppManifest.xaml
+G:\File SERVER\chapter14\SenderApp\Bin\Debug\SenderApp.dll
+G:\File SERVER\chapter14\SenderApp\Bin\Debug\SenderApp.pdb
+G:\File SERVER\chapter14\SenderApp\Bin\Debug\SenderApp.xap
+G:\File SERVER\chapter14\SenderApp\Bin\Debug\TestPage.html
+G:\File SERVER\chapter14\SenderApp\obj\Debug\ResolveAssemblyReference.cache
+G:\File SERVER\chapter14\SenderApp\obj\Debug\App.g.cs
+G:\File SERVER\chapter14\SenderApp\obj\Debug\MainPage.g.cs
+G:\File SERVER\chapter14\SenderApp\obj\Debug\SenderApp.g.resources
+G:\File SERVER\chapter14\SenderApp\obj\Debug\SenderApp.dll
+G:\File SERVER\chapter14\SenderApp\obj\Debug\SenderApp.pdb
+G:\File SERVER\chapter14\SenderApp\obj\Debug\XapCacheFile.xml

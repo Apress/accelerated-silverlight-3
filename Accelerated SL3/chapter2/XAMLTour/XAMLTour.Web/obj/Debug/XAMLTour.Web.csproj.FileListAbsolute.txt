@@ -1,0 +1,42 @@
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\XAMLTour.Web.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\XAMLTour.Web.pdb
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\System.Web.Silverlight.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\de\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\es\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\fr\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\it\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\ja\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\ko\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\obj\Debug\XAMLTour.Web.dll
+H:\Documents\Visual Studio 2008\Projects\Accelerated SL3\XAMLTour\XAMLTour.Web\obj\Debug\XAMLTour.Web.pdb
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\XAMLTour.Web.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\XAMLTour.Web.pdb
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\System.Web.Silverlight.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\obj\Debug\XAMLTour.Web.dll
+C:\Users\jay\Desktop\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\obj\Debug\XAMLTour.Web.pdb
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\XAMLTour.Web.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\XAMLTour.Web.pdb
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\System.Web.Silverlight.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\de\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\es\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\fr\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\it\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\ja\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\ko\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\zh-Hans\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\bin\zh-Hant\System.Web.Silverlight.resources.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\obj\Debug\XAMLTour.Web.dll
+C:\book\examples\FinalSourceCode\Accelerated SL3\chapter2\XAMLTour\XAMLTour.Web\obj\Debug\XAMLTour.Web.pdb
